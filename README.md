@@ -1,2 +1,2 @@
 # Batheny-s-Pie
-Showcase the skills of HTML, CSS and Javascript
+Showcase the skill sets of HTML, CSS and Javascript
